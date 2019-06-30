@@ -1,0 +1,1 @@
+<annotation><folder>images</folder><filename>pos-36.jpg</filename><size><width>607</width><height>800</height><depth>3</depth></size><segmented>0</segmented><object><name>class</name><pose>center</pose><truncated>1</truncated><difficult>0</difficult><bndbox><xmin>184</xmin><ymin>312</ymin><xmax>395</xmax><ymax>528</ymax></bndbox></object></annotation>
